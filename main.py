@@ -1,5 +1,5 @@
 import numpy as np
-import mean_var_std
+
 
 def calculate(list):
   if(len(list)!=9):
